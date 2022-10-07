@@ -41,6 +41,37 @@
 }
 
 .ex-5-square:hover{
+    width: 20px;
+    height: 20px;
 
 }
+
+/* Esercizio 6 */
+.ex-6-img:hover{
+    filter: grayscale(1);
+
+}
+
+/* Esercizio 7 */
+.ex-7-img{
+    transition: all 5s ease;
+}
+
+.ex-7-img:hover{
+    filter: blur(2px) hue-rotate(90deg);
+}
+
+/* Esercizio 8 */
+.ex-8-img{
+    transition: all 5s ease;
+}
+
+.ex-8-img:hover{
+    border-radius: 20px;
+    filter: saturate(0.2) brightness(0.25);
+}
+
+
+
+
 
