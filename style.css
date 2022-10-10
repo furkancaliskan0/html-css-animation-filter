@@ -50,6 +50,7 @@
     line-height: 70px;
     text-align: center;
     text-decoration: none;
+    
 }
 .ex-12-top-white, .ex-13-top-white {
     position: absolute;
@@ -58,6 +59,7 @@
     background: #f5f5f5;
     width: 60px;
     height: 20px;
+   background-color: red;
 }
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
